@@ -172,7 +172,7 @@ app.layout = html.Div(
             dbc.Col(
                 html.Div(
                     [
-                        "An brief overview of data science job distributions, popularity and salaries. The data was extracted from ai-jobs.net.",
+                        "A brief overview of data science job distributions, popularity and salaries. The data was extracted from ai-jobs.net.",
                         #dbc.Button("Hello", color="success", className="mr-1"),
                      ]
                 ), width={'size':8, 'offset':2}
