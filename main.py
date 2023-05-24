@@ -14,6 +14,7 @@ import seaborn as sns
 
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.MINTY])
+server = app.server
 
 
 ##########   DATA   ##########
