@@ -10,7 +10,6 @@ from dash_iconify import DashIconify
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from plotly.colors import n_colors
-import seaborn as sns
 
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.MINTY])
