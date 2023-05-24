@@ -1,0 +1,7 @@
+dash==2.9.3
+dash_bootstrap_components
+dash_mantine_components
+pandas
+plotly.express
+pycountry
+dash_iconify
